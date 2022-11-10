@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class obj_move : MonoBehaviour
+public class NPCMovement : MonoBehaviour
 {
     private float moveSpeed;
     private bool moveRight;
